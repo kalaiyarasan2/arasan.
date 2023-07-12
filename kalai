@@ -1,0 +1,25 @@
+html>
+    <head>
+        <title>Welcome to my page</title>
+        <style>
+            body{
+                background-image:url("https://images.pexels.com/photos/2607544/pexels-photo-2607544.jpeg?auto=compress&cs=tinysrgb&w=600");
+                background-size:cover;
+                background-repeat:no-repeat;
+            }
+            .image-container{
+                text-align:center;
+            }
+        </style>
+    </head>
+    <body>
+        <h1 align=center>WELCOME TO MY PAGE!</h1>
+        <div class="image-container">
+        <img src="https://images.pexels.com/photos/3687770/pexels-photo-3687770.jpeg?auto=compress&cs=tinysrgb&w=600" alt="Image 1">
+        <img src="https://images.pexels.com/photos/3658120/pexels-photo-3658120.jpeg?auto=compress&cs=tinysrgb&w=600" alt="Image 2">
+        <img src="https://images.pexels.com/photos/4587971/pexels-photo-4587971.jpeg?auto=compress&cs=tinysrgb&w=600" alt="Image 3">
+        <img src="https://images.pexels.com/photos/4588052/pexels-photo-4588052.jpeg?auto=compress&cs=tinysrgb&w=600" alt="Image 4">
+        <img src="https://images.pexels.com/photos/3671300/pexels-photo-3671300.jpeg?auto=compress&cs=tinysrgb&w=600" alt="Image 5">
+        </div>
+    </body>
+</html>
